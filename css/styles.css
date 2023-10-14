@@ -803,7 +803,7 @@ p {
     fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   margin-right: 8px;
 }
-.modal-check:checked + .modal-check-label span {
+.modal-check:checked + .modal-check-label .span-label {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
