@@ -519,6 +519,8 @@ p {
   fill: #f4f4fd;
 }
 .footer-form-container {
+  display: flex;
+  gap: 24px;
 }
 .footer-form-text {
   width: 75px;
